@@ -24,6 +24,7 @@ int c = 10 + 20;
 if(c > 0)
 {
 	System.out.println("True");
+	System.out.println(c);
 }
     
 
